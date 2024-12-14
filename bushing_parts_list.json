@@ -1,0 +1,11 @@
+[
+  {
+    "text_top": "EPS Battery",
+    "text_bottom": "PIU Mainboard",
+    "bushing_length": 4
+  },
+  { "text_top": "PIU Mainboard", "text_bottom": "OBC", "bushing_length": 20 },
+  { "text_top": "OBC", "text_bottom": "Daughter Board", "bushing_length": 25 },
+  { "text_top": "Daughter Board", "text_bottom": "ADCS", "bushing_length": 20 },
+  { "text_top": "ADCS", "text_bottom": "Frame", "bushing_length": 14 }
+]
