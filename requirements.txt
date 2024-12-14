@@ -1,0 +1,6 @@
+build123d
+build123d_ease
+ocp_vscode
+git+https://github.com/gumyr/bd_warehouse
+
+loguru
